@@ -1,5 +1,7 @@
 # 05 Third-Party APIs: Work Day Scheduler
-
+created a scheduler from times 9am-5pm
+diffrentiated past present and future sections with different colors
+when you input a text for the time block, it saves. 
 ## Your Task
 
 Create a simple calendar application that allows a user to save events for each hour of the day by modifying starter code. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
